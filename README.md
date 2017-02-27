@@ -1,4 +1,4 @@
 # SpringBoot-SpringDataJPA-SpringDataCassandra
 
 
-This repository contains the basic project skeleton required top set up Spring boot with Spring data JPA and Cassandra
+This repository contains the basic project skeleton required to set up Spring boot with Spring data JPA and Spring data Cassandra
